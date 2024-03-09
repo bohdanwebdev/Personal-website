@@ -128,4 +128,8 @@ a.text {
     .text.grid {
         text-align: center;
     }
+    
+    a.text {
+        font-size: 1.5rem;
+    }
 }
